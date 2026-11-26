@@ -1,1 +1,1 @@
-# lab1-cicd
+[![.github/workflows/python-app.yml](https://github.com/omertosa-the/lab1-cicd/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/omertosa-the/lab1-cicd/actions/workflows/python-app.yml)
